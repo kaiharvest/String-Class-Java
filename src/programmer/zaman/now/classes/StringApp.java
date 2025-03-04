@@ -21,5 +21,10 @@ public class StringApp {
 		System.out.println(" " .isBlank());
 		System.out.println(" " .isEmpty());
 		System.out.println("" .isEmpty());
+		System.out.println(name.charAt(3));
+
+		char[] chars = name.toCharArray();
+
+
 	}
 }
