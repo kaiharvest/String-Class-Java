@@ -6,7 +6,7 @@ package programmer.zaman.now.classes;
 
 import java.math.BigInteger;
 
-public class BIgNumberClass {
+public class BigNumberClass {
 	public static void main(String[] args) {
 
 		BigInteger a = new BigInteger("1000000000000000000");
