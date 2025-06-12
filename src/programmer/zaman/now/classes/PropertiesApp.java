@@ -26,6 +26,7 @@ public class PropertiesApp {
 			System.out.println("Gagal load data dari file");
 		}
 
+		// menyimpan data di properties
 		try {
 			Properties properties = new Properties();
 			properties.put("name.firs", "Indra");
