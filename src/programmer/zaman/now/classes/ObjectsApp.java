@@ -2,7 +2,7 @@ package programmer.zaman.now.classes;
 
 import java.util.Objects;
 
-public class ObjectApp {
+public class ObjectsApp {
 
 	public static class Data {
 		private String data;
