@@ -2,7 +2,7 @@ package programmer.zaman.now.classes;
 
 import java.util.Arrays;
 
-public class ArrayClass {
+public class ArraysClass {
 	public static void main(String[] args) {
 
 		int[] numbers = {
